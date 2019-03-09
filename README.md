@@ -31,3 +31,5 @@ Here are some useful tools:
 - [MITMProxy](https://mitmproxy.org) - Tool written in python that makes it very easy to listen to network traffic going through your devices
 - [N.S.HEyyyy](https://github.com/samatt/nsheyy_gui/releases) - This is a tool Surya made ages ago for Wi-Fi scanning in monitor mode on OSX. It probably doesnt work anymore but the code for doing the scanning will still work if you need it
 - [Herbivore](https://github.com/samatt/herbivore) - A tool made by Jen Kagan and Surya. Its a work in progress but is designed to be a gentle introduction to packet sniffing
+
+https://docs.google.com/presentation/d/10lt6DY1qOcJF3yvxtXbsaDjvhEJZurs6jCiP2b5UJQ4/edit?usp=sharing
