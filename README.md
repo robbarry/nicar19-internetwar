@@ -26,8 +26,8 @@ Here are some useful tools:
 * [VMRay](https://www.vmray.com/) - Analyze what programs do (this thing is amazing)
 * [WebRecorder.io](https://webrecorder.io/) - Capture interactive web session
 
-- [Aircrack-ng](https://www.aircrack-ng.org) - OG tool. Has been around for ages and does all things wifi	
+- [Aircrack-ng](https://www.aircrack-ng.org) - Its been around for ages and does all things wifi	
 - [Debookee](https://debookee.com/) - Easy to use network investigation tool. Has a lot of powerful features. Mac only unfortunately 
-- [MITMProxy](https://mitmproxy.org) - Super powerful swiss army knife for network stuff written in python
-- [N.S.HEyyyy](https://github.com/samatt/nsheyy_gui/releases) - This is a tool Surya made ages ago to fot Wi-Fi scanning on OS X. It probably doesnt work anymore but the code for doing the scanning will still work if you need it
+- [MITMProxy](https://mitmproxy.org) - Tool written in python that makes it very easy to listen to network traffic going through your devices
+- [N.S.HEyyyy](https://github.com/samatt/nsheyy_gui/releases) - This is a tool Surya made ages ago for Wi-Fi scanning in monitor mode on OSX. It probably doesnt work anymore but the code for doing the scanning will still work if you need it
 - [Herbivore](https://github.com/samatt/herbivore) - A tool made by Jen Kagan and Surya. Its a work in progress but is designed to be a gentle introduction to packet sniffing
