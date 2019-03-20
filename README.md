@@ -25,6 +25,7 @@ Here are some useful tools:
 * [urlscan.io](https://urlscan.io/) - Scan content of any site, study all HTTP calls and lots of other information, historical search data
 * [VMRay](https://www.vmray.com/) - Analyze what programs do (this thing is amazing)
 * [WebRecorder.io](https://webrecorder.io/) - Capture interactive web session
+* [Project Sonar](https://www.rapid7.com/research/project-sonar/) - DNS and SSL data. Good details [here](https://0xpatrik.com/project-sonar-guide/).
 
 - [Aircrack-ng](https://www.aircrack-ng.org) - Its been around for ages and does all things wifi	
 - [Debookee](https://debookee.com/) - Easy to use network investigation tool. Has a lot of powerful features. Mac only unfortunately 
